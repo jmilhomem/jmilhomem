@@ -1,6 +1,3 @@
-# Jessika Milhomem
-
-
 ## 📖 About Me
 
 🚀 With **19+ years in tech**, I've been on a data-driven journey—crafting Business Intelligence solutions and building data strategies that power decisions across industries like **digital banking, fashion, telecom, education, automotive, and consumer goods**.
