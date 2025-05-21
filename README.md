@@ -25,7 +25,7 @@
 * **Planning & Analysis Tools**: Hyperion Planning, Calculation Manager, SmartView
 * **Enterprise Systems**: SAP BW, SAP HANA
 
-I live at the intersection of **data, product, and innovation** — and I’m always up for solving meaningful problems with smart, scalable solutions.
+I live at the intersection of **data, product, and innovation** — and I’m always up for solving meaningful problems using or creating smart, creative and scalable solutions.
 
 
 ## 🔧 Projects:
