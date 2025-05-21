@@ -43,26 +43,26 @@ I live at the intersection of **data, product, and innovation** — and I’m al
 ### 🧱 Data/Analytics Engineering:
 * #### [meta-etl-purchases-project](https://github.com/jmilhomem/meta-etl-purchases-project) 
     * Tools: 🐍 Python | ⚙️ dbt | ☁️ AWS RDS (Postgres)
-    * Project: Meta project that contains 2 projects that ingests raw data (public data) and runs the data pipeline using Python + DBT framework
+    * Project: Meta project that contains 2 projects that ingest raw public data and run a data pipeline using Python + dbt.
 
 * #### [quote_scraping_challenge](https://github.com/jmilhomem/quote_scraping_challenge) 
     * Tools:🐍 Python  
-    * Project: Challenge to do the webscraping from the [Quotes to Scrape](http://quotes.toscrape.com/) and print the authors and their quotes.
+    * Project: Challenge to scrape data from [Quotes to Scrape](http://quotes.toscrape.com/) and print authors and their quotes.
 
 * ####  [movie_registration_challenge](https://github.com/jmilhomem/movie_registration_challenge) 
     * Tools: 🐍 Python | 💾 SQLite | 📄 JSON  
-    * Project: Challenge of movie registration using Python. The data enables the storage of the data on a json file or a db (sqlite3).
+    * Project: Challenge for a movie registration system using Python, with data storage in a JSON file or SQLite database.
 
 * ####  [cheapest_flight_ticket](https://github.com/jmilhomem/cheapest_flight_ticket) 
     * Tools: 🐍 Python  
-    * Project: Challenge to list the cheapest flight ticket considering a list of tickets inputed using Python.
-
+    * Project: Challenge to list the cheapest flight ticket from a list of tickets using Python.
 
 ### 📊 Analytics & Advanced Analytics:
 * #### [pbi_agile_team_efficiency_metrics](https://github.com/jmilhomem/pbi_agile_team_efficiency_metrics) 
     * Tools: 📊 Power BI | 🧩 Atlassian Jira  
-    * Project: Present the efficiency metrics of an hyphotetical team. The dashboard connects from the Atlassian Jira. 
+    * Project: Dashboard to present team efficiency metrics based on data pulled from Atlassian Jira.
 
 * #### [fia_aedes_aegypti_project](https://github.com/jmilhomem/fia_aedes_aegypti_project) 
     * Tools: 🐍 Python | 🔥 PySpark | 🧪 R | 📊 Power BI  
-    * Project: This project was developed during the big data analytics specialization and the purpose was to develop a data model which should be possible predict how many infected people might have in the neighborhoods of the Recife city. 
+    * Project: Developed during my Big Data Analytics specialization to predict infection rates of Aedes Aegypti in Recife (Brazil's state) neighborhoods.
+  
