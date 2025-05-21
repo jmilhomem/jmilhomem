@@ -35,13 +35,13 @@ I live at the intersection of **data, product, and innovation** — and I’m al
     * Tools: 🐍 Python | ⚙️ dbt | ☁️ AWS RDS (Postgres)
     * Project: Meta project that contains 2 projects that ingest raw public data and run a data pipeline using Python + dbt.
 
-* #### [quote_scraping_challenge](https://github.com/jmilhomem/quote_scraping_challenge) 
-    * Tools:🐍 Python  
-    * Project: Challenge to scrape data from [Quotes to Scrape](http://quotes.toscrape.com/) and print authors and their quotes.
-
 * ####  [movie_registration_challenge](https://github.com/jmilhomem/movie_registration_challenge) 
     * Tools: 🐍 Python | 💾 SQLite | 📄 JSON  
     * Project: Challenge for a movie registration system using Python, with data storage in a JSON file or SQLite database.
+
+* #### [quote_scraping_challenge](https://github.com/jmilhomem/quote_scraping_challenge) 
+    * Tools:🐍 Python  
+    * Project: Challenge to scrape data from [Quotes to Scrape](http://quotes.toscrape.com/) and print authors and their quotes.
 
 * ####  [cheapest_flight_ticket](https://github.com/jmilhomem/cheapest_flight_ticket) 
     * Tools: 🐍 Python  
