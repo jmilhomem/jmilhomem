@@ -28,16 +28,6 @@
 I live at the intersection of **data, product, and innovation** — and I’m always up for solving meaningful problems with smart, scalable solutions.
 
 
-## 🌐 More about my work
-* 🌍 [JessikaMilhomem.com](https://jessikamilhomem.com/)
-* 💼 [LinkedIn Profile](https://www.linkedin.com/in/jessikamilhomem/)
-
-
-## 📬 Get in Touch
-* ✉️ [Email Me](jessika.milhomem@gmail.com)
-* 📎 [LinkedIn Profile](https://www.linkedin.com/in/jessikamilhomem/)
-
-
 ## 🔧 Projects:
 
 ### 🧱 Data/Analytics Engineering:
@@ -66,3 +56,12 @@ I live at the intersection of **data, product, and innovation** — and I’m al
     * Tools: 🐍 Python | 🔥 PySpark | 🧪 R | 📊 Power BI  
     * Project: Developed during my Big Data Analytics specialization to predict infection rates of Aedes Aegypti in Recife (Brazil's state) neighborhoods.
   
+
+## 🌐 More about my work
+* 🌍 [JessikaMilhomem.com](https://jessikamilhomem.com/)
+* 💼 [LinkedIn Profile](https://www.linkedin.com/in/jessikamilhomem/)
+
+
+## 📬 Get in Touch
+* ✉️ [Email Me](jessika.milhomem@gmail.com)
+* 📎 [LinkedIn Profile](https://www.linkedin.com/in/jessikamilhomem/)
