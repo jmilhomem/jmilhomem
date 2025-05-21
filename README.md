@@ -54,7 +54,7 @@ I live at the intersection of **data, product, and innovation** — and I’m al
 
 * #### [fia_aedes_aegypti_project](https://github.com/jmilhomem/fia_aedes_aegypti_project) 
     * Tools: 🐍 Python | 🔥 PySpark | 🧪 R | 📊 Power BI  
-    * Project: Developed during my Big Data Analytics specialization to predict infection rates of Aedes Aegypti in Recife (Brazil's state) neighborhoods.
+    * Project: Developed during my Big Data Analytics specialization to predict infection rates of Aedes Aegypti in Recife - a Brazil's state - neighborhoods.
   
 
 ## 🌐 More about my work
