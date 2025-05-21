@@ -36,3 +36,16 @@ I live at the intersection of **data, product, and innovation** — and I’m al
 ## 📬 Get in Touch
 * ✉️ [Email Me](jessika.milhomem@gmail.com)
 * 📎 [LinkedIn Profile](https://www.linkedin.com/in/jessikamilhomem/)
+
+
+## Projects:
+
+**Data/Analytics Engineering**:
+* [meta-etl-purchases-project](https://github.com/jmilhomem/meta-etl-purchases-project) Tools: **Python, dbt Framework, AWS Relational Database Service (Postgres)**. Project: Meta project that contains 2 projects that ingests raw data (public data) and runs the data pipeline using Python + DBT framework 
+* [quote_scraping_challenge](https://github.com/jmilhomem/quote_scraping_challenge) Tools: **Python**. Project: Challenge to do the webscraping from the [Quotes to Scrape](http://quotes.toscrape.com/) and print the authors and their quotes.
+* [movie_registration_challenge](https://github.com/jmilhomem/movie_registration_challenge) Tools: **Python**. Project: Challenge of movie registration using Python. The data enables the storage of the data on a json file or a db (sqlite3).
+* [cheapest_flight_ticket](https://github.com/jmilhomem/cheapest_flight_ticket) Tools: **Python**. Project: Challenge to list the cheapest flight ticket considering a list of tickets inputed using Python.
+
+**Analytics & Advanced Analytics**:
+* [pbi_agile_team_efficiency_metrics](https://github.com/jmilhomem/pbi_agile_team_efficiency_metrics) Tools: **PowerBI and Atlassian Jira**. Project: Present the efficiency metrics of an hyphotetical team. The dashboard connects from the Atlassian Jira. 
+* [fia_aedes_aegypti_project](https://github.com/jmilhomem/fia_aedes_aegypti_project) Tools: **Python, PySpark, R and PowerBI**. Project: This project was developed during the big data analytics specialization and the purpose was to develop a data model which should be possible predict how many infected people might have in the neighborhoods of the Recife city. 
