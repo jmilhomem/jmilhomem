@@ -33,7 +33,7 @@ I live at the intersection of **data, product, and innovation** — and I’m al
 ### 🧱 Data/Analytics Engineering:
 * #### [meta-etl-purchases-project](https://github.com/jmilhomem/meta-etl-purchases-project) 
     * Tools: 🐍 Python | ⚙️ dbt | ☁️ AWS RDS (Postgres)
-    * Project: Meta project that contains 2 projects that ingest raw public data and run a data pipeline using Python + dbt.
+    * Project: Meta project that contains 2 projects that consumes raw public data about purchases and run a data pipeline using Python + dbt.
 
 * ####  [movie_registration_challenge](https://github.com/jmilhomem/movie_registration_challenge) 
     * Tools: 🐍 Python | 💾 SQLite | 📄 JSON  
